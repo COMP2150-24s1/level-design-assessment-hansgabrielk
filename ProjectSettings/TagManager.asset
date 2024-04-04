@@ -48,6 +48,9 @@ TagManager:
   - name: Level
     uniqueID: 2344118779
     locked: 0
+  - name: Player
+    uniqueID: 2823362721
+    locked: 0
   - name: Front
     uniqueID: 3405993979
     locked: 0
