@@ -20,22 +20,27 @@ Each section also has smaller respite zones in the form of checkpoints and healt
 ### 1.3. Challenge
 There are 3 main challenges in my level.      
   
-1st Challenge: Hard Spike Jump      
+**1st Challenge: Hard Spike Jump**      
 This jump at the end of Section #1 features the first instance of spikes on ceiling. Unlike the previous jumps, this jump limits the jump height of the player. The player must precisely control the power their jump as the not hit the spikes at the top or fall into the acid pool at the bottom.
 
 ![This is the alt text for an image!](DocImages/HardSpikeJump.png)
 
 The player's initial attempts will cause frustration. To help mitigate this and keep the player in the flow state, I added a small rock. This rock indicates the exact moment the player must begin their jump in order to avoid both the spikes and the acid.
   
-2nd Challenge: Jump and Shoot    
+
+**2nd Challenge: Jump and Shoot**    
 Section #2 features a series of encounters that requires the player to discover the dynamic of jumping and shooting at the same time. The section starts off easy with a single Spitter on each platform. Then, on the third platform, their are 3 Spitters blocking the way.  
 
 ![This is the alt text for an image!](DocImages/JumpAndShoot.png)
 
 The player is unable to progress to the next platform without taking out the Spitters. If the player attempts to jump on the platform without taking out at least the first Spitter, they will be knocked back and fall onto the spikes below. The player must therefore discover that they can shoot while jumping in order to progress through this section.  
 
-3rd Challenge: Bunch of Enemies    
+**3rd Challenge: Bunch of Enemies**    
+Section #3 is all about combat. Up until this point, the enemies have just been there to add little bit of difficulty to the primarily platforming focused sections. In Section #3 defeating the enemies is the main focus. Each room has a switch that is guarded by enemies. This switch is connected to a door that will open and grant access to the next room.
 
+![This is the alt text for an image!](DocImages/BunchOfEnemies.png)
+
+To ensure that Section #3 was the hardest section to clear, I restricted the number of health pickups. Up until now, health pickups have been available at every checkpoint. In Section #3 there is only one room with health pickups. On top of that, the health pickups are guarded by enemies.
 
 ### 1.4. Exploration
 I will admit here that I did not read the assessment notification throughly enough as I did not design a non-linear level. As such, my level does not facilitate player autonomy for exploration. Despite this, my level does still aim to make each space distinct and memorable.
