@@ -18,9 +18,9 @@ The peaks of intensity increase over the course of the level; modulated by the o
 Each section also has smaller respite zones in the form of checkpoints and health pickups. These provide a short moment of relief but tension still remains as the player can still see obstacles ahead.
 
 ### 1.3. Challenge
-There are 3 main challenges in my level.
-1st Challenge: Hard Spike Jump
-This jump at the end of Section #1 features the first instance of spikes on ceiling. Unlike the previous jumps, this jump limits the jump height of the player. The player must precisely control the power their jump as the not hit the spikes at the top or fall into the acid pool at the bottom. 
+There are 3 main challenges in my level.  
+1st Challenge: Hard Spike Jump  
+This jump at the end of Section #1 features the first instance of spikes on ceiling. Unlike the previous jumps, this jump limits the jump height of the player. The player must precisely control the power their jump as the not hit the spikes at the top or fall into the acid pool at the bottom.
 
 ![This is the alt text for an image!](DocImages/HardSpikeJump.png)
 
