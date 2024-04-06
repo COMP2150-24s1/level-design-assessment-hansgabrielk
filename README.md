@@ -18,18 +18,23 @@ The peaks of intensity increase over the course of the level; modulated by the o
 Each section also has smaller respite zones in the form of checkpoints and health pickups. These provide a short moment of relief but tension still remains as the player can still see obstacles ahead.
 
 ### 1.3. Challenge
-There are 3 main challenges in my level.  
-1st Challenge: Hard Spike Jump  
+There are 3 main challenges in my level.      
+  
+1st Challenge: Hard Spike Jump      
 This jump at the end of Section #1 features the first instance of spikes on ceiling. Unlike the previous jumps, this jump limits the jump height of the player. The player must precisely control the power their jump as the not hit the spikes at the top or fall into the acid pool at the bottom.
 
 ![This is the alt text for an image!](DocImages/HardSpikeJump.png)
 
-A players initial attempts will cause frustration. To help mitigate this and keep the player in the flow state, I added a small rock. This rock indicates the exact moment the player must begin their jump in order to avoid both the spikes and the acid.
+The player's initial attempts will cause frustration. To help mitigate this and keep the player in the flow state, I added a small rock. This rock indicates the exact moment the player must begin their jump in order to avoid both the spikes and the acid.
+  
+2nd Challenge: Jump and Shoot    
+Section #2 features a series of encounters that requires the player to discover the dynamic of jumping and shooting at the same time. The section starts off easy with a single Spitter on each platform. Then, on the third platform, their are 3 Spitters blocking the way.  
 
-2nd Challenge: Jump and Shoot
+![This is the alt text for an image!](DocImages/JumpAndShoot.png)
 
+The player is unable to progress to the next platform without taking out the Spitters. If the player attempts to jump on the platform without taking out at least the first Spitter, they will be knocked back and fall onto the spikes below. The player must therefore discover that they can shoot while jumping in order to progress through this section.  
 
-3rd Challenge: Bunch of Enemies
+3rd Challenge: Bunch of Enemies    
 
 
 ### 1.4. Exploration
