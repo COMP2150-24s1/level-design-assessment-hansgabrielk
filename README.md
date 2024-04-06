@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: Hans (Gabriel Kagayutan)
+### Name: Hans (Gabriel) Kagayutan
 ### Student number: 47465670
 
 ## 1. Player Experience (~700 words)
@@ -46,12 +46,14 @@ To ensure that Section #3 was the hardest section to clear, I restricted the num
   
 ### 1.4. Exploration
 I will admit here that I did not read the assessment notification throughly enough as I did not design a non-linear level. As such, my level does not facilitate player autonomy for exploration. Despite this, my level does still aim to make each space distinct and memorable.  
+   
 For example Section #2 features a pit full of Chompers.
 
 ![This is the alt text for an image!](DocImages/ChomperPit.png)
 
 The Chompers don't do much in terms of difficulty (the spikes and acid already handle that aspect). But I decided to put them in anyways because I thought it'd be more interesting and memorable.  
   
+   
 Even the connective spaces are distinct. The final loopback to the door features a long fall with spikes lining the walls. This provides a final epic leap of faith at the end of level.
 
 ![This is the alt text for an image!](DocImages/LeapOfFaith.png)
