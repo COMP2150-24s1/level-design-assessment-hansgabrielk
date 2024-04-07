@@ -98,9 +98,14 @@ Even the connective spaces are distinct. The final loopback to the door features
 
 ## 4. Iterative Design (~400 words)
 When designing each section I would first draw up the level maps seen above.  
+    
 When drawing the level maps, I would consider what mechanics I'd want to feature for each section. Section #1 was simply to introduce and test the jumping and melee attack mechanic. Section #2 introduced the switch, and gun mechanics and also focused on the dynamic of jumping and shooting at the same time. Section #3 was simply a focused on combat with the enemies.  
+          
 After I had decided what each section's focus was, I began constructing the level.  
 I would begin constructing a setion from whereever I had marked as the starting point (indicated by the red stick figure). Once a portion of the section had been completed, I would run and test it. If I found any changes I'd want to make, I would go back to the editor and change them.  
+         
 One such change, in Section #1, was to move the spikes up so that they were visible to the player. As seen in the level map for Section #1, the spikes remained on the floor of the section. This was an issue I immediately noticed when it came time to test the jump over first spike pit. The player could not see the spikes. My intention was for the player to feel like the jump had consequence as the previous jumps simply allowed the player to hop out of the pit and try again. If the player's could not see the spikes, how were they supposed to know that indeed more dangerous. And so to solve this issue, I simply moved the spikes up so that they were visible to the player.  
+      
 Another change I made, also in Section #1, was to move the first Spitter (as well as the platform it was on) to the right. I found that went a player tried to jump over the gap they would run into the Spitter and get knocked back into the pit.
+        
 An aspect of my level design that could be improved through further iterative design would be the rooms in Section #3. The first 3 rooms in Section #3 are distinct from one another but the last room simply copies room 1's layout and adds more enemies. In future, I must consider the intended player experience of each room and ensure I am not repeating experiences when not necessary.
