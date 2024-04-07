@@ -3,7 +3,7 @@
 ### Name: Hans (Gabriel) Kagayutan
 ### Student number: 47465670
 
-## 1. Player Experience (~700 words)
+## 1. Player Experience
 
 ### 1.1. Discovery
 Throughout the level, the player learns the basics and extents of the game's mechanics. My level design structures learning by regularly testing the players understanding of the limitations of mechanics. A clear example of this is would be the first 3 jumps of Section #1. The first two jumps are easy and help familiarise the player with the jumping mechanic. The third jump, on the other hand, is designed in such a way that showcases the upper limits of the jump mechanic. Either side of the pit is level with the other and 6 units apart. At this distance, the player is required to jump at the last possible moment to clear the gap. Furthermore, the height of the right side of the pit is 6 units high. At this height, the player is unable to reach the top. The left side of the pit is elevated by 1 unit (5 blocks high). The player can reach the top of this side of the pit to reattempt the jump. This first test ensures that, moving forward, the player understands the limitations of the jump mechanic.
@@ -58,7 +58,7 @@ Even the connective spaces are distinct. The final loopback to the door features
 
 ![This is the alt text for an image!](DocImages/LeapOfFaith.png)
 
-## 2. Core Gameplay (~400 words)
+## 2. Core Gameplay
 
 ### 2.1. Weapon Pickup (Staff)
 ![This is the alt text for an image!](DocImages/2.1.png)
@@ -97,7 +97,7 @@ This encounter shows the player that the switch can be activated by shooting it 
 ### 3.4.	Level Map – Section 3
 ![This is the alt text for an image!](DocImages/Section3LevelMap.png)
 
-## 4. Iterative Design (~400 words)
+## 4. Iterative Design
 When designing each section I would first draw up the level maps seen above.  
     
 When drawing the level maps, I would consider what mechanics I'd want to feature for each section. Section #1 was simply to introduce and test the jumping and melee attack mechanic. Section #2 introduced the switch, and gun mechanics and also focused on the dynamic of jumping and shooting at the same time. Section #3 was simply a focused on combat with the enemies.  
