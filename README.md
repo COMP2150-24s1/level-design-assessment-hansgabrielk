@@ -60,27 +60,21 @@ Even the connective spaces are distinct. The final loopback to the door features
 
 ## 2. Core Gameplay (~400 words)
 
-### 2.1. Acid
+### 2.1. Weapon Pickup (Staff)
+![This is the alt text for an image!](DocImages/2.1.png)
+  
 
-### 2.2. Checkpoints
+### 2.2. Checkpoints, Spikes, Chompers
+![This is the alt text for an image!](DocImages/2.2.png)
+  
 
-### 2.3. Chompers
+### 2.3. Moving Platforms
 
-### 2.4. Health Pickups
+### 2.4. Health Pickups, Acid, Spitters, Passthrough Platforms
 
 ### 2.5. Keys
 
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
+### 2.6. Weapon Pickup (Gun)
 
 
 ## 3. Spatiotemporal Design
