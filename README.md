@@ -62,28 +62,28 @@ Even the connective spaces are distinct. The final loopback to the door features
 
 ### 2.1. Weapon Pickup (Staff)
 ![This is the alt text for an image!](DocImages/2.1.png)
-  
+I put a destructible wall right after the staff to ensure that the player can only progress if they know how to use the staff  
 
 ### 2.2. Checkpoints, Spikes, Chompers
 ![This is the alt text for an image!](DocImages/2.2.png)
-  
+I chose to introduce the checkpoint here because this encounter is the first time that the player is able to take damage (from either the spikes or the chomper).  
 
 ### 2.3. Moving Platforms
 ![This is the alt text for an image!](DocImages/2.3.png)
-  
+Having a moving platform that forces the player to wait gives them a nice break from the previous enemy encounter (and from the enemy encounter to come).  
 
 ### 2.4. Health Pickups, Acid, Spitters, Passthrough Platforms
 ![This is the alt text for an image!](DocImages/2.4.png)
-  
+The health pickup here helps if the player is either low on health from the previous encounter, or if the lose health from the acid or Spitter in this encounter. The Spitter sits upon a passthrough platform to give the Spitter a height advantage which increases the enemy encounter difficulty compared to the Chomper on the floor earlier.
 
 ### 2.5. Keys
 ![This is the alt text for an image!](DocImages/2.5.png)
-  
+The player picks up the key.  
 
 ### 2.6. Weapon Pickup (Gun)
 ![This is the alt text for an image!](DocImages/2.6.png)
-  
-
+This encounter shows the player that the switch can be activated by shooting it with the gun (which is crucial for the later stages where the switch activates moving platforms).  
+                   
 ## 3. Spatiotemporal Design
 ### 3.1. Molecule Diagram
 ![This is the alt text for an image!](DocImages/LevelDesignMoleculeDiagram.png)
