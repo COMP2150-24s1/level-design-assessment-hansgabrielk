@@ -29,7 +29,7 @@ The player's initial attempts will cause frustration. To help mitigate this and 
   
   
 **2nd Challenge: Jump and Shoot**    
-Section #2 features a series of encounters that requires the player to discover the dynamic of jumping and shooting at the same time. The section starts off easy with a single Spitter on each platform. Then, on the third platform, their are 3 Spitters blocking the way.  
+Section #2 features a series of encounters that requires the player to discover the dynamic of jumping and shooting at the same time. The section starts off easy with a single Spitter on each platform. Then, on the third platform, there are 3 Spitters blocking the way.  
 
 ![This is the alt text for an image!](DocImages/JumpAndShoot.png)
 
@@ -45,13 +45,13 @@ To ensure that Section #3 was the hardest section to clear, I restricted the num
   
   
 ### 1.4. Exploration
-I will admit here that I did not read the assessment notification throughly enough as I did not design a non-linear level. As such, my level does not facilitate player autonomy for exploration. Despite this, my level does still aim to make each space distinct and memorable.  
+I will admit here that I was not paying attention when reading the assessment information as I did not design a non-linear level. As such, my level does not facilitate player autonomy for exploration. Despite this, my level does still aim to make each space distinct and memorable.  
    
 For example Section #2 features a pit full of Chompers.
 
 ![This is the alt text for an image!](DocImages/ChomperPit.png)
 
-The Chompers don't do much in terms of difficulty (the spikes and acid already handle that aspect). But I decided to put them in anyways because I thought it'd be more interesting and memorable.  
+The Chompers don't do much in terms of difficulty (the spikes and acid already handle that). But I decided to put them in anyways because I thought it'd be more interesting and memorable.  
   
    
 Even the connective spaces are distinct. The final loopback to the door features a long fall with spikes lining the walls. This provides a final epic leap of faith at the end of level.
@@ -94,7 +94,7 @@ Even the connective spaces are distinct. The final loopback to the door features
 ![This is the alt text for an image!](DocImages/Section2LevelMap.png)
 
 ### 3.4.	Level Map – Section 3
-
+![This is the alt text for an image!](DocImages/Section3LevelMap.png)
 
 ## 4. Iterative Design (~400 words)
 
