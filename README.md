@@ -69,13 +69,20 @@ Even the connective spaces are distinct. The final loopback to the door features
   
 
 ### 2.3. Moving Platforms
+![This is the alt text for an image!](DocImages/2.3.png)
+  
 
 ### 2.4. Health Pickups, Acid, Spitters, Passthrough Platforms
+![This is the alt text for an image!](DocImages/2.4.png)
+  
 
 ### 2.5. Keys
+![This is the alt text for an image!](DocImages/2.5.png)
+  
 
 ### 2.6. Weapon Pickup (Gun)
-
+![This is the alt text for an image!](DocImages/2.6.png)
+  
 
 ## 3. Spatiotemporal Design
 ### 3.1. Molecule Diagram
